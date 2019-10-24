@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_array">
+        <item>@string/category_array_name1</item>
+        <item>@string/category_array_name2</item>
+        <item>@string/category_array_name3</item>
+    </string-array>
+    
+    <string-array name="length_array">
+        <item>@string/length_array_name1</item>
+        <item>@string/length_array_name2</item>
+        <item>@string/length_array_name3</item>
+        <item>@string/length_array_name4</item>
+    </string-array>
+    
+    <string-array name="temperature_array">
+        <item>@string/temperature_array_name1</item>
+        <item>@string/temperature_array_name2</item>
+        <item>@string/temperature_array_name3</item>
+    </string-array>
+    
+    <string-array name="weight_array">
+        <item>@string/weight_array_name1</item>
+        <item>@string/weight_array_name2</item>
+        <item>@string/weight_array_name3</item>
+    </string-array>
+    
+</resources>

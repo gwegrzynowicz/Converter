@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A5-Grzegorz.Wegrzynowicz</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="menu_exit_label">Exit</string>
+
+    <string name="select_category_label">Select conversion category:</string>
+    <string name="category_array_name1">LENGTH</string>
+    <string name="category_array_name2">TEMPERATURE</string>
+    <string name="category_array_name3">WEIGHT</string>
+    
+    <string name="length_array_name1">Centimeter</string>
+    <string name="length_array_name2">Meter</string>
+    <string name="length_array_name3">Inch</string>
+    <string name="length_array_name4">Feet</string>
+    
+    <string name="temperature_array_name1">Celsius</string>
+    <string name="temperature_array_name2">Fahrenheit</string>
+    <string name="temperature_array_name3">Kelvin</string>
+    
+    <string name="weight_array_name1">Kilogram</string>
+    <string name="weight_array_name2">Ounce</string>
+    <string name="weight_array_name3">Pound</string>
+    
+    <string name="quantity_label">Enter quantity to convert:</string>
+    <string name="from_label">From:</string>
+    <string name="to_label">To:</string>
+    <string name="convert_label">Convert</string>
+    <string name="clear_label">Clear</string>
+    <string name="result_label">Result:</string>
+</resources>
